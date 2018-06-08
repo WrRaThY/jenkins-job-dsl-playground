@@ -2,3 +2,7 @@
 target
 build
 out
+*.iml
+.gradle
+gradle
+!gradle/wrapper/gradle-wrapper.jar
